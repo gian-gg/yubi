@@ -7,7 +7,7 @@ const Header = () => {
         <span className="text-4xl md:text-5xl lg:text-7xl">✌️</span> yubi
       </h1>
       <p className="text-center text-[10px] md:text-xs lg:text-sm mb-4 max-w-[600px] font-secondary text-base-content/50">
-        Can't decide? Let your fingers fight it out.
+        Can&apos;t decide? Let your fingers fight it out.
       </p>
     </header>
   );

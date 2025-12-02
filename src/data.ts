@@ -26,7 +26,7 @@ const groupConfig = {
   MIN: 2,
 };
 
-const secondsToStabilize = 2;
+const secondsToStabilize = 1;
 
 const RouletteInfo: ModalInfoData[] = [
   {

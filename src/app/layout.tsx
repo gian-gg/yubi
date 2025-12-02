@@ -8,13 +8,13 @@ import { Toaster } from "sonner";
 
 export const metadata: Metadata = {
   title: {
-    default: "yubbi – Random Picker & Grouper",
-    template: "%s | yubbi",
+    default: "yubi - Random Picker & Grouper",
+    template: "%s | yubi",
   },
   description:
-    "yubbi is a fun touch-and-keyboard-based app for randomly picking or grouping players. Playful, fair, and fast.",
+    "yubi is a fun touch-and-keyboard-based app for randomly picking or grouping players. Playful, fair, and fast.",
   keywords: [
-    "yubbi",
+    "yubi",
     "finger roulette",
     "roulette",
     "generator",
@@ -30,20 +30,20 @@ export const metadata: Metadata = {
   publisher: "gian.gg",
   robots: "index, follow",
   alternates: {
-    canonical: "https://yubbi.vercel.app",
+    canonical: "https://yubi.dcism.org",
   },
   openGraph: {
-    title: "yubbi – Random Picker & Grouper",
+    title: "yubi – Random Picker & Grouper",
     description:
-      "yubbi is a fun touch-and-keyboard-based app for randomly picking or grouping players. Playful, fair, and fast.",
-    url: "https://yubbi.vercel.app",
-    siteName: "yubbi",
+      "yubi is a fun touch-and-keyboard-based app for randomly picking or grouping players. Playful, fair, and fast.",
+    url: "https://yubi.dcism.org",
+    siteName: "yubi",
     images: [
       {
-        url: "https://yubbi.vercel.app/preview.png",
+        url: "https://yubi.dcism.org/preview.png",
         width: 1200,
         height: 630,
-        alt: "yubbi App preview image",
+        alt: "yubi App preview image",
       },
     ],
     locale: "en_US",
@@ -51,12 +51,12 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "yubbi – Random Picker & Grouper",
+    title: "yubi – Random Picker & Grouper",
     description:
-      "yubbi is a fun touch-and-keyboard-based app for randomly picking or grouping players. Playful, fair, and fast.",
+      "yubi is a fun touch-and-keyboard-based app for randomly picking or grouping players. Playful, fair, and fast.",
     site: "@gian_ggg",
     creator: "@gian_ggg",
-    images: ["https://yubbi.vercel.app/preview.png"],
+    images: ["https://yubi.dcism.org/preview.png"],
   },
   icons: {
     icon: "/favicon.ico",

@@ -1,10 +1,11 @@
-# ✌️ Yubbi   
+# ✌️ yubi
 
 A fun, interactive decision-making app for groups. Perfect for parties, team building, or any situation where you need a fair, random selection.
 
 ## Desktop Demo
+
 | ![roulette-desktop](/public/readme/roulette-desktop.gif) | ![group-desktop](/public/readme/group-desktop.gif) |
-| - | - |
+| -------------------------------------------------------- | -------------------------------------------------- |
 
 ---
 
@@ -14,24 +15,28 @@ A fun, interactive decision-making app for groups. Perfect for parties, team bui
 
 ---
 
-## 🌟 Features  
+## 🌟 Features
 
-**Multi-platform Input:**  
-- 👆 Multi-touch finger detection (mobile/tablet)  
-- 🎹 Keyboard input (desktop)  
+**Multi-platform Input:**
 
-**Game Modes:**  
-- 🎯 **Roulette** - Randomly selects one person  
-- 👥 **Group** - Splits everyone into fair teams  
+- 👆 Multi-touch finger detection (mobile/tablet)
+- 🎹 Keyboard input (desktop)
 
-**Smart Features:**  
-- ⏱️ Auto-start when stable (no more waiting)  
-- 📱 Mobile-first design with desktop support  
+**Game Modes:**
+
+- 🎯 **Roulette** - Randomly selects one person
+- 👥 **Group** - Splits everyone into fair teams
+
+**Smart Features:**
+
+- ⏱️ Auto-start when stable (no more waiting)
+- 📱 Mobile-first design with desktop support
 - 🎨 Clean, intuitive UI (monkeytype inspired)
 
 ---
 
-## 📃 **License**  
-Released under the [MIT License](LICENSE) - Permissive free software license with minimal restrictions. Commercial use, modification, and distribution are all allowed. Attribution is required.  
+## 📃 **License**
+
+Released under the [MIT License](LICENSE) - Permissive free software license with minimal restrictions. Commercial use, modification, and distribution are all allowed. Attribution is required.
 
 ---
